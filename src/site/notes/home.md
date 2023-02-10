@@ -5,19 +5,7 @@ Author: Ceyhan
 Description: Customer Dataview Test
 ---
 
-
-
-> [!Warning] Dikkat
-> Dikkat Dikkat
-
-
-
-
-```dataview
-TABLE Author, Description
-WHERE Author = "Ceyhan"
-```
-
+Hello World
 
 ```mermaid
 sequenceDiagram
