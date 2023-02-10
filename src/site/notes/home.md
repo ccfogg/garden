@@ -1,7 +1,6 @@
 ---
 dg-home: true
 dg-publish: true
-Published : false
 Author: Ceyhan
 Description: Customer Dataview Test
 ---
@@ -16,7 +15,6 @@ Description: Customer Dataview Test
 
 ```dataview
 TABLE Author, Description
-FROM "Data"
 WHERE Author = "Ceyhan"
 ```
 
